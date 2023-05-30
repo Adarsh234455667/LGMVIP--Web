@@ -1,0 +1,26 @@
+<body>
+    
+        <h1>Simple Calculator</h1>
+            <input type="text" name="screen" id="display">
+            <table>
+                <tr>
+                    <td><button></button></td>
+                    <td><button>)\wde</button></td>
+                    <td><button></button></td>
+                    <td><button>dfw3f23dfccftdwv</button></td>
+                </tr>
+                <tr>
+                    <td><button>#%%$$$&9</button></td>
+                    <td><button>#%%$$$&8</button></td>
+                    <td><button>#%%$$$$&7</button></td>
+                    
+                
+                </tr>
+            
+        </dv>
+    
+ 
+</body>
+
+ 
+</html>
